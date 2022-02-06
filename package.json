@@ -1,21 +1,21 @@
 {
-  "name": "somtoday-api",
+  "name": "hello-world",
   "version": "1.0.0",
-  "description": "Een API voor som.today",
+  "description": "Hello-World test module!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GamingMineblox/somtoday-api.git"
+    "url": "git+https://github.com/GamingMineblox/npm-modules.git#hello-world"
   },
   "keywords": [],
   "author": "GamingMineblox",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GamingMineblox/somtoday-api/issues"
+    "url": "https://github.com/GamingMineblox/npm-modules/issues"
   },
-  "homepage": "https://github.com/GamingMineblox/somtoday-api#readme",
+  "homepage": "https://github.com/GamingMineblox/npm-modules#readme",
   "dependencies": { }
 }
