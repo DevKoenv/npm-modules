@@ -1,0 +1,21 @@
+{
+  "name": "somtoday-api",
+  "version": "1.0.0",
+  "description": "Een API voor som.today",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GamingMineblox/somtoday-api.git"
+  },
+  "keywords": [],
+  "author": "GamingMineblox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GamingMineblox/somtoday-api/issues"
+  },
+  "homepage": "https://github.com/GamingMineblox/somtoday-api#readme",
+  "dependencies": { }
+}
